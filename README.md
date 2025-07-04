@@ -57,17 +57,3 @@ FakeNewsDetection-Flask/
    cd FakeNewsDetection-Flask
 ````
 
----
-
-## 👨‍💻 Author
-
-**Asim Hanif**
-Software Engineering Student
-🔗 [LinkedIn](https://www.linkedin.com/in/codedbyasim)
-📧 [Gmail](mailto:asimjutt2003@gmail.com)
-
----
-
-## 📄 License
-
-MIT License – Use freely and modify 😊
