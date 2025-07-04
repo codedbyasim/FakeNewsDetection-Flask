@@ -2,7 +2,7 @@
 
 This is a web application that detects whether a given news article is **Real** or **Fake** using Natural Language Processing (NLP) and Machine Learning (Logistic Regression).
 
-![Fake News Detection]([https://your-screenshot-or-demo-link.png](https://github.com/codedbyasim/FakeNewsDetection-Flask/blob/main/Home.PNG))
+![Fake News Detection]([[https://your-screenshot-or-demo-link.png](https://github.com/codedbyasim/FakeNewsDetection-Flask/blob/main/Home.PNG)](https://github.com/codedbyasim/FakeNewsDetection-Flask/blob/main/Home.PNG))
 
 ---
 
