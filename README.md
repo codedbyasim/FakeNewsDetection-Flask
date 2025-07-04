@@ -2,7 +2,7 @@
 
 This is a web application that detects whether a given news article is **Real** or **Fake** using Natural Language Processing (NLP) and Machine Learning (Logistic Regression).
 
-![Fake News Detection Demo](https://your-screenshot-or-demo-link.png)
+![Fake News Detection]([https://your-screenshot-or-demo-link.png](https://github.com/codedbyasim/FakeNewsDetection-Flask/blob/main/Home.PNG))
 
 ---
 
@@ -57,57 +57,6 @@ FakeNewsDetection-Flask/
    git clone https://github.com/your-username/FakeNewsDetection-Flask.git
    cd FakeNewsDetection-Flask
 ````
-
-2. **Create virtual environment (optional):**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the app:**
-
-   ```bash
-   python app.py
-   ```
-
-5. **Open in browser:**
-   Visit `http://127.0.0.1:5000` in your browser
-
----
-
-## 📦 Requirements (requirements.txt)
-
-```txt
-Flask
-scikit-learn
-pandas
-numpy
-nltk
-joblib
-```
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home](https://github.com/codedbyasim/FakeNewsDetection-Flask/blob/main/Home.PNG)
-
-### 📝 Check Page
-
-![Check](https://github.com/codedbyasim/FakeNewsDetection-Flask/blob/main/Check.PNG)
-
-### 📊 Result Page
-
-![Result](https://github.com/codedbyasim/FakeNewsDetection-Flask/blob/main/Result.PNG)
 
 ---
 
