@@ -56,4 +56,3 @@ FakeNewsDetection-Flask/
    git clone https://github.com/your-username/FakeNewsDetection-Flask.git
    cd FakeNewsDetection-Flask
 ````
-
